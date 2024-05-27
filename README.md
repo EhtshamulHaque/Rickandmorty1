@@ -1,24 +1,3 @@
 # rick-and-morty
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Here You can See Live -> https://6654857ab7b01c0cfb133309--polite-fenglisu-58931c.netlify.app/
